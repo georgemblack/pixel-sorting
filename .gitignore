@@ -43,6 +43,4 @@ application.macosx
 .history
 
 ### Misc ###
-*.jpg
-*.jpeg
-*.tif
+*-output.tif
