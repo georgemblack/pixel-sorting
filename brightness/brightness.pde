@@ -8,7 +8,6 @@ void setup() {
   String inputFileName = "example.jpg"; // change me!
   source = loadImage(inputFileName);
   destination = createImage(source.width, source.height, RGB);
-  size(4032, 3024); // change me!
   
   source.loadPixels();
   destination.loadPixels();
